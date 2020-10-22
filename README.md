@@ -1,2 +1,1 @@
-# osu
- 
+# osu! Skins & Beatmaps
